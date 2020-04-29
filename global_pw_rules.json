@@ -1,0 +1,9 @@
+{
+	"force_renewal_after_days": 30,
+	"mandatory_complexity": {
+		"minimal_length": 10,
+		"min_no_capital_letters": 1,
+		"min_no_lower_letters": 1,
+		"min_no_special_chars": 2
+	}
+}
